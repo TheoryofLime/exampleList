@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleList\exampleList\bin\Debug\net6.0\exampleList.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleList\exampleList\bin\Debug\net6.0\exampleList.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleList\exampleList\bin\Debug\net6.0\exampleList.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleList\exampleList\bin\Debug\net6.0\exampleList.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleList\exampleList\bin\Debug\net6.0\exampleList.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleList\exampleList\obj\Debug\net6.0\exampleList.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleList\exampleList\obj\Debug\net6.0\exampleList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleList\exampleList\obj\Debug\net6.0\exampleList.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleList\exampleList\obj\Debug\net6.0\exampleList.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleList\exampleList\obj\Debug\net6.0\exampleList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleList\exampleList\obj\Debug\net6.0\exampleList.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleList\exampleList\obj\Debug\net6.0\refint\exampleList.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleList\exampleList\obj\Debug\net6.0\exampleList.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleList\exampleList\obj\Debug\net6.0\exampleList.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleList\exampleList\obj\Debug\net6.0\ref\exampleList.dll
